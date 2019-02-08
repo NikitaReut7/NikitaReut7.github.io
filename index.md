@@ -1,4 +1,4 @@
-title: Welcome to my page. My name is Nikita Reut.
+##-------------------------------------------------Welcome to my page. My name is Nikita Reut.
 
 ![S](https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/image.png)
 
