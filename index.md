@@ -5,7 +5,6 @@
 
 ***
 ## About me
-ы\
 
 ***
 ## Interests
