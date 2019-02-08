@@ -1,6 +1,8 @@
-##                                           Welcome to my page. My name is Nikita Reut.
+title: Welcome to my page. My name is Nikita Reut.
 
+![S](https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/image.png)
 
+asaa
 You can use the [editor on GitHub](https://github.com/NikitaReut7/NikitaReut7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
