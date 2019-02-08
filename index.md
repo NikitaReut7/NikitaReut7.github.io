@@ -1,5 +1,5 @@
 ## Welcome to my page. My name is Nikita Reut.
-![S](https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/_7ouYsSkdnM.png)
+![S](https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/image.png)
 
 
 You can use the [editor on GitHub](https://github.com/NikitaReut7/NikitaReut7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
