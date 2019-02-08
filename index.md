@@ -4,11 +4,8 @@
 </p>
 
 
-
-
-<p align="center">
-  <b> Abouast me </b><br>
-</p>
+***
+## About me
 
 
 ### Interests
