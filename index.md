@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my page. My name is Nik.
 
 You can use the [editor on GitHub](https://github.com/NikitaReut7/NikitaReut7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
