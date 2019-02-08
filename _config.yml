@@ -1,7 +1,3 @@
 theme: jekyll-theme-cayman
 title: Portfolio
-avatar: <p align="center">
-  <img src="https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/image.png"><br>
-   <b> Reut Nikita</b><br>
-</p>
-
+avatar: ![alt text](https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/image.png)
