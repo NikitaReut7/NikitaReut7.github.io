@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/image.png">
+    <br><br>
    <b> Reut Nikita</b><br>
-  <br><br>
+
 </p>
 
 
