@@ -5,6 +5,7 @@
 
 ***
 ## About me
+https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/image.png
 
 ***
 ## Interests
