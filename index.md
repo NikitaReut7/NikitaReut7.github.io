@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b> ### About me </b><br>
+  <b> About me </b><br>
 </p>
 
 
