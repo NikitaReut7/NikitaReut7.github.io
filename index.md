@@ -1,4 +1,3 @@
-## Welcome to my page. My name is Nikita Reut.
 <p align="center">
   <b> Reut Nikita</b><br>
   <img src="https://raw.githubusercontent.com/NikitaReut7/NikitaReut7.github.io/master/image.png">
