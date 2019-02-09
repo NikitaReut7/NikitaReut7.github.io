@@ -5,17 +5,18 @@
 
 ***
 ## About me
-Я учусь на 3 курсе Белорусского Государственного Университета на факультете радиофизики и компьютерных технологий. У меня есть огромное желание обучаться новому и развиваться. Хочу получить ценный опыт в области разработки современных веб-приложений. Имею опыт работы с приложениями на языке программирования С#. Способен выполнять порученные задания точно в срок. Незамедлительно реагирую на возникающие трудности в работе и принимаю меры к их преодолению.
+I study at the third year of the Belarusian State University at the Faculty of Radio Physics and Computer Technologies. I have a great desire to learn new things and develop. I want to get valuable experience in the development of modern web applications. I have experience working with an application in the C # programming language. Able to perform assigned tasks on time. Immediately respond to difficulties and take measures to overcome them.
 
 ***
 ## Interests
 My personal interests include:<br>
-Спорт.<br>
-Одним из основных моих хобби является футбол. Мне нравиться играть в футбол, посещать матчи моей любимой команды. Также я интересуюсь хоккеем и теннисом.<br>
-Автомобили.<br>
-Мне интересно следить за автомобильным рынком, смотреть обзоры на новинки, разбираться в устройстве автомобиля. В скором времени планирую получить водительские права.<br>
-Активная деятельность.<br>
-Я люблю участвовать в различных мероприятиях, а также помогать их организовывать. В ходе таких мероприятий я общаюсь с людьми, приобретаю новых друзей. 
+**Sport.**
+One of my main hobbies is football. I like to play football, attend matches of my favorite team. I am also interested in hockey and tennis.<br>
+**Cars.**
+I'm interested to watch the car market, see video reviews on new items. Soon I plan to get a driver's license.<br>
+
+**Vigorous activity.**
+I love to participate in various events, as well as help their organize. During such events I communicate with people, I get new friends.
 
 ***
 ## Contact
