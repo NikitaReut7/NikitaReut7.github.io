@@ -14,7 +14,6 @@ My personal interests include:<br>
 One of my main hobbies is football. I like to play football, attend matches of my favorite team. I am also interested in hockey and tennis.<br>
 **Cars.**
 I'm interested to watch the car market, see video reviews on new items. Soon I plan to get a driver's license.<br>
-
 **Vigorous activity.**
 I love to participate in various events, as well as help their organize. During such events I communicate with people, I get new friends.
 
