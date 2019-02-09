@@ -19,3 +19,6 @@ I love to participate in various events, as well as help their organize. During 
 
 ***
 ## Contact
+Gmail: nikitauljo9@gmail.com<br>
+[VK](https://vk.com/m_galustyan)
+
