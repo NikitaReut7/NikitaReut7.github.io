@@ -18,6 +18,11 @@ I'm interested in watching the car market and seeing video reviews on new items.
 I love to participate at various events, as well as to help in their organisation. During such events I communicate with people and get new friends.
 
 ***
+## URL
+[Github](https://github.com/NikitaReut7)<br>
+[Codewars](https://www.codewars.com/users/NikitaReut7)
+
+***
 ## Contact
 Gmail: nikitauljo9@gmail.com<br>
 [VK](https://vk.com/m_galustyan)
