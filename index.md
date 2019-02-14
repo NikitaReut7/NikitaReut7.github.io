@@ -19,7 +19,15 @@ I love to participate at various events, as well as to help in their organisatio
 
 ***
 ## URL
-[Github](https://github.com/NikitaReut7)<br>
+[PadawansTask1 100%](https://github.com/NikitaReut7/PadawansTask1)<br>
+[PadawansTask2 100%](https://github.com/NikitaReut7/PadawansTask2)<br>
+[PadawansTask3 100%](https://github.com/NikitaReut7/PadawansTask3)<br>
+[PadawansTask4 100%](https://github.com/NikitaReut7/PadawansTask4)<br>
+[PadawansTask5 91%](https://github.com/NikitaReut7/PadawansTask5)<br>
+[PadawansTask6 94%](https://github.com/NikitaReut7/PadawansTask6)<br>
+[PadawansTask13 100%](https://github.com/NikitaReut7/PadawansTask13)<br>
+[FancyCalc 100%](https://github.com/NikitaReut7/FancyCalc)<br>
+
 [Codewars](https://www.codewars.com/users/NikitaReut7)
 
 ***
