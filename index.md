@@ -27,6 +27,8 @@ I love to participate at various events, as well as to help in their organisatio
 [PadawansTask6 94%](https://github.com/NikitaReut7/PadawansTask6)<br>
 [PadawansTask7 100%](https://github.com/NikitaReut7/PadawansTask7)<br>
 [PadawansTask8 100%](https://github.com/NikitaReut7/PadawansTask8)<br>
+[PadawansTask9 100%](https://github.com/NikitaReut7/PadawansTask9)<br>
+[PadawansTask10 100%](https://github.com/NikitaReut7/PadawansTask10)<br>
 [PadawansTask12 100%](https://github.com/NikitaReut7/PadawansTask12)<br>
 [PadawansTask13 100%](https://github.com/NikitaReut7/PadawansTask13)<br>
 [FancyCalc 100%](https://github.com/NikitaReut7/FancyCalc)<br>
