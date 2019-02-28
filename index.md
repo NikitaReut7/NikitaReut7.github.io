@@ -37,7 +37,9 @@ I love to participate at various events, as well as to help in their organisatio
 
 [Codewars](https://www.codewars.com/users/NikitaReut7)<br>
 
-[TicTacToe](https://github.com/NikitaReut7/TicTacToe)
+[TicTacToe](https://github.com/NikitaReut7/TicTacToe)<br>
+
+[TheFirst20Numbers](https://github.com/NikitaReut7/TheFirst20Numbers)
 
 
 
