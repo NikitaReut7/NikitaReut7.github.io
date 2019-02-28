@@ -35,7 +35,11 @@ I love to participate at various events, as well as to help in their organisatio
 [PadawansTask15 100%](https://github.com/NikitaReut7/PadawansTask15)<br>
 [FancyCalc 100%](https://github.com/NikitaReut7/FancyCalc)<br>
 
-[Codewars](https://www.codewars.com/users/NikitaReut7)
+[Codewars](https://www.codewars.com/users/NikitaReut7)<br>
+
+[TicTacToe](https://github.com/NikitaReut7/TicTacToe)
+
+
 
 ***
 ## Contact
