@@ -18,32 +18,6 @@ I'm interested in watching the car market and seeing video reviews on new items.
 I love to participate at various events, as well as to help in their organisation. During such events I communicate with people and get new friends.
 
 ***
-## URL
-[PadawansTask1 100%](https://github.com/NikitaReut7/PadawansTask1)<br>
-[PadawansTask2 100%](https://github.com/NikitaReut7/PadawansTask2)<br>
-[PadawansTask3 100%](https://github.com/NikitaReut7/PadawansTask3)<br>
-[PadawansTask4 100%](https://github.com/NikitaReut7/PadawansTask4)<br>
-[PadawansTask5 91%](https://github.com/NikitaReut7/PadawansTask5)<br>
-[PadawansTask6 94%](https://github.com/NikitaReut7/PadawansTask6)<br>
-[PadawansTask7 100%](https://github.com/NikitaReut7/PadawansTask7)<br>
-[PadawansTask8 100%](https://github.com/NikitaReut7/PadawansTask8)<br>
-[PadawansTask9 100%](https://github.com/NikitaReut7/PadawansTask9)<br>
-[PadawansTask10 100%](https://github.com/NikitaReut7/PadawansTask10)<br>
-[PadawansTask11 100%](https://github.com/NikitaReut7/PadawansTask11)<br>
-[PadawansTask12 100%](https://github.com/NikitaReut7/PadawansTask12)<br>
-[PadawansTask13 100%](https://github.com/NikitaReut7/PadawansTask13)<br>
-[PadawansTask15 100%](https://github.com/NikitaReut7/PadawansTask15)<br>
-[FancyCalc 100%](https://github.com/NikitaReut7/FancyCalc)<br>
-
-[Codewars](https://www.codewars.com/users/NikitaReut7)<br>
-
-[TicTacToe](https://github.com/NikitaReut7/TicTacToe)<br>
-
-[TheFirst20Numbers](https://github.com/NikitaReut7/TheFirst20Numbers)
-
-
-
-***
 ## Contact
 Gmail: nikitauljo9@gmail.com<br>
 [VK](https://vk.com/m_galustyan)
